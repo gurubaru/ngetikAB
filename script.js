@@ -16,35 +16,6 @@
 			f= f+1;
 			if (f<2){
 				document.getElementById('capslk').style.backgroundColor="white" ;
-
-				
-				document.getElementById('ᬳ').value="᭄ᬳ" //ha//
-				document.getElementById('ᬦ').value="᭄ᬦ" //na//
-				document.getElementById('ᬘ').value="᭄ᬘ" //ca//
-				document.getElementById('ᬭ').value="᭄ᬭ" //ra//
-				document.getElementById('ᬓ').value="᭄ᬓ" //ka//
-				document.getElementById('ᬤ').value="᭄ᬤ" //da//
-				document.getElementById('ᬢ').value="᭄ᬢ" //ta//
-				document.getElementById('ᬲ').value="᭄ᬲ" //sa//
-				document.getElementById('ᬯ').value="᭄ᬯ" //wa//
-				document.getElementById('ᬮ').value="᭄ᬮ" //la//
-				document.getElementById('ᬫ').value="᭄ᬫ" //ma//
-				document.getElementById('ᬕ').value="᭄ᬕ" //ga//
-				document.getElementById('ᬩ').value="᭄ᬩ" //ba//
-				document.getElementById('ᬗ').value="᭄ᬗ" //nga//
-				document.getElementById('ᬧ').value="᭄ᬧ" //pa//
-				document.getElementById('ᬚ').value="᭄ᬚ" //ja//
-				document.getElementById('ᬬ').value="᭄ᬬ" //ya//
-				document.getElementById('ᬜ').value="᭄ᬜ" //nya//
-				document.getElementById('ᬔ').value="᭄ᬔ" //kha//
-				document.getElementById('ᬖ').value="᭄ᬖ" //gha//
-				document.getElementById('ᬝ').value="᭄ᬝ" //telatik//
-				document.getElementById('ᬰ').value="᭄ᬰ" //sesaga//
-				document.getElementById('ᬱ').value="᭄ᬱ" //sesapa//
-				document.getElementById('ᬡ').value="᭄ᬡ" //narambat//
-				document.getElementById('ᬥ').value="᭄ᬥ" //dha//
-				document.getElementById('ᬣ').value="᭄ᬣ" //tatawa//
-				document.getElementById('ᬪ').value="᭄ᬪ" //bha//
 				document.getElementById('᭞').value="᭚"//pamada//
 				document.getElementById('ᬙ').value="᭄ᬙ" //claca//
 				document.getElementById('ᬋ').value="ᬺ" //rerepa
