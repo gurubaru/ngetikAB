@@ -17,7 +17,6 @@
 			if (f<2){
 				document.getElementById('capslk').style.backgroundColor="white" ;
 				document.getElementById('᭞').value="᭚"//pamada//
-				document.getElementById('ᬙ').value="᭄ᬙ" //claca//
 				document.getElementById('ᬋ').value="ᬺ" //rerepa
 				document.getElementById('᭟').value="᭛" //mangajapa//
 				document.getElementById('ᬵ').value="ᬒᬁ" //ongkara//
