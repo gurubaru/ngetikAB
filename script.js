@@ -45,14 +45,14 @@
 				document.getElementById('ᬥ').value="᭄ᬥ" //dha//
 				document.getElementById('ᬣ').value="᭄ᬣ" //tatawa//
 				document.getElementById('ᬪ').value="᭄ᬪ" //bha//
-				document.getElementById('᭞').value="᭚"//titik dua//
+				document.getElementById('᭞').value="᭚"//pamada//
 				document.getElementById('ᬙ').value="᭄ᬙ" //claca//
 				document.getElementById('ᬋ').value="ᬺ" //rerepa
 				document.getElementById('᭟').value="᭛" //mangajapa//
 				document.getElementById('ᬵ').value="ᬒᬁ" //ongkara//
 				document.getElementById('ᬸ').value="ᬹ" //suku ilut//
 				document.getElementById('ᬾ').value="ᬿ" //taleng merepa//
-				document.getElementById('ᬶ').value="ᬷ" //pemada//
+				document.getElementById('ᬶ').value="ᬷ" //ulu sari//
 				document.getElementById('ᬛ').value="᭄ᬛ" //airsanya//				
 				document.getElementById('ᭀ').value="᭝"
             }else{
@@ -86,13 +86,14 @@
 				document.getElementById('ᬪ').value="ᬪ"
 				document.getElementById('᭞').value="᭞"
 				document.getElementById('ᬙ').value="ᬙ"
-				document.getElementById('ᬋ').value="ᬋ" //rerepa
-				document.getElementById('᭟').value="᭟" //mangajapa//
-				document.getElementById('ᬵ').value="ᬵ" //ongkara//
-				document.getElementById('ᬸ').value="ᬸ" //suku ilut//
-				document.getElementById('ᬾ').value="ᬾ" //taleng merepa//
-				document.getElementById('ᬶ').value="ᬶ" //pemada//
+				document.getElementById('ᬋ').value="ᬋ" 
+				document.getElementById('᭟').value="᭟"
+				document.getElementById('ᬵ').value="ᬵ" 
+				document.getElementById('ᬸ').value="ᬸ" 
+				document.getElementById('ᬾ').value="ᬾ" 
+				document.getElementById('ᬶ').value="ᬶ" 
 				document.getElementById('ᬛ').value="ᬛ" //airsanya//
+		    		document.getElementById('ᭀ').value="ᭀ"
 				f=0
 				
 			};}
