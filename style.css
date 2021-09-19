@@ -10,6 +10,9 @@ textarea{
     height:95%; 
     padding: 15px;
   }
+input{
+    font-family:Natya;
+}
 .ultra{
     height: 35px;
     width: 13%;
