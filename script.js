@@ -45,16 +45,16 @@
 				document.getElementById('ᬥ').value="᭄ᬥ" //dha//
 				document.getElementById('ᬣ').value="᭄ᬣ" //tatawa//
 				document.getElementById('ᬪ').value="᭄ᬪ" //bha//
-				document.getElementById('᭞').value="᭝"//titik dua//
+				document.getElementById('᭞').value="᭚"//titik dua//
 				document.getElementById('ᬙ').value="᭄ᬙ" //claca//
 				document.getElementById('ᬋ').value="ᬺ" //rerepa
 				document.getElementById('᭟').value="᭛" //mangajapa//
 				document.getElementById('ᬵ').value="ᬒᬁ" //ongkara//
 				document.getElementById('ᬸ').value="ᬹ" //suku ilut//
 				document.getElementById('ᬾ').value="ᬿ" //taleng merepa//
-				document.getElementById('ᬶ').value="᭚" //pemada//
-				document.getElementById('ᬛ').value="᭄ᬛ" //airsanya//
-				document.getElementById('').value=""
+				document.getElementById('ᬶ').value="ᬷ" //pemada//
+				document.getElementById('ᬛ').value="᭄ᬛ" //airsanya//				
+				document.getElementById('ᭀ').value="᭝"
             }else{
             	document.getElementById('capslk').style.backgroundColor="buttonface" ;
 				document.getElementById('ᬳ').value="ᬳ"
