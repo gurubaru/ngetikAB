@@ -23,7 +23,7 @@
 				document.getElementById('ᬸ').value="ᬹ" //suku ilut//
 				document.getElementById('ᬾ').value="ᬿ" //taleng merepa//
 				document.getElementById('ᬶ').value="ᬷ" //ulu sari//
-				document.getElementById('ᬛ').value="ᬐ" /airsanya//				
+				document.getElementById('ᬁ').value="ᬀ"	//ulu ricem//			
 				document.getElementById('ᭀ').value="᭝"
             }else{
             	document.getElementById('capslk').style.backgroundColor="buttonface" ;
@@ -64,6 +64,7 @@
 				document.getElementById('ᬶ').value="ᬶ" 
 				document.getElementById('ᬛ').value="ᬛ" //jajera//
 		    		document.getElementById('ᭀ').value="ᭀ"
+document.getElementById('ᬁ').value="ᬁ"	//ulu candra//
 				f=0
 				
 			};}
