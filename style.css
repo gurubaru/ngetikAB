@@ -10,9 +10,11 @@ textarea{
     height:95%; 
     padding: 15px;
   }
-input button{
+input {font-family: Vimala;
+margin:0px;border:none;}
+button{
     font-family: Vimala;
-margin:0px;
+margin:0px;border:none;
 }
 .ultra{
     height: 35px;
