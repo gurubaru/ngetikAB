@@ -11,14 +11,14 @@ textarea{
     padding: 15px;
   }
 input {font-family: Vimala;
-margin:0px;border:none;}
+margin:0px;border:#ccc;}
 button{
     font-family: Vimala;
-margin:0px;border:none;
+margin:0px;border:#ccc;
 }
 .ultra{
     height: 35px;
-    width: 13%;
+    width: auto;
     text-align: center;
     font-size: normal;
 }
@@ -28,7 +28,7 @@ margin:0px;border:none;
 }
 .alpha{
     height: 35px;
-    width: 8.5%;
+    width: auto;
     text-align: center;
     font-size: normal;
 
@@ -42,7 +42,7 @@ margin:0px;border:none;
     color: #000000;
 }
 .special{
-    width: 13%;
+    width: auto;
     height: 35px;
     text-align: center;
     font-size: normal;
@@ -58,7 +58,7 @@ margin:0px;border:none;
 }
 .number{
     height: 38px;
-    width: 8.9%;
+    width: auto;
     font-size: normal;
     text-align: center;
 }
@@ -73,7 +73,7 @@ margin:0px;border:none;
 }
 .delete{
     height: 35px;
-    width: 13%;
+    width: auto;
     text-align: center;
 }
 .delete:hover{
