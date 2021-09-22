@@ -68,3 +68,4 @@ document.getElementById('ᬁ').value="ᬁ"	//ulu candra//
 				f=0
 				
 			};}
+document.write( '<br/><div style=\"text-align: center;\">created by: I Ketut Sunarta</div><div style=\"text-align: center;\"><a href=\"https://tutlenc.blogspot.com\"> © 2021 tutlencBlog</a></div>' );
