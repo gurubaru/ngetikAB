@@ -7,7 +7,9 @@
 <meta name="robots" content="noindex">
 		<link rel="stylesheet" href="https://raw.githack.com/gurubaru/bukusaku/apltran/apltran.css" type="text/css" charset="utf-8" />
 <link rel="stylesheet" type="text/css" href="https://raw.githack.com/gurubaru/ngetikAB/main/style.css" charset="utf-8"/>
-		<link href='https://raw.githack.com/gurubaru/balitranslate/main/aksaraBalifont.css' rel='stylesheet' type='text/css'/>
+		<link href='https://raw.githack.com/gurubaru/balitranslate/main/aksaraBalifont.css' rel='stylesheet' type='text/css'/>		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 	<!--logoheader-->
  <div class="head"><img src="https://1.bp.blogspot.com/-vGEaQBE1Xb4/YMg1Anfvq1I/AAAAAAAAB68/cyDIxSpsuwU4QnPl7lFgJvO61PrtKso6QCLcBGAsYHQ/s0/logo-tutlenc.png" alt="tempat belajar bahasa dan aksara bali" class="mylogo"></div>
  <!--menutop-->
@@ -21,7 +23,7 @@
   </ul>
 </div>
 	</head>
-	<body style="margin-bottom:120px;">
+	<body style="margin-bottom:120px;">		
 			<div id="frame" style="width:100%; height:fit-content;font-family: Vimala;">
 			<form name="keyboard" style="width:100%; height:60%; margin: auto;">			
 		<div style="height: 199px;" >
@@ -44,12 +46,19 @@
 			<div><button type="button" name="exp" id="&nbsp" value="&nbsp" class="special" onclick="change(), fun(value)">SPACE</button></div>
 		</div>				
 	<script type="text/javascript" src="https://raw.githack.com/gurubaru/ngetikAB/main/script.js" charset="utf-8"></script>
-				<hr/><div style="color:#fff;">
+	<button style="background-color: rgba(231, 228, 228, 0.712);border: none;position: absolute;top: 280px;margin-left: 5px;padding: 0px;z-index: 1;" onclick="copy();"><i class="far fa-copy"></i> copy to clipboard</button>
+	<hr/><div style="color:#fff;">
 		<ol>
 		<li>Untuk merubah aksara menjadi gantungan atau gempelan cukup gunakan tombol (Adeg") sebelum aksara yang mau dirubah</li>
 		<li>Gunakan tombol Cap untuk melihat bentuk aksara lainnya</li>
 		<li>Aksara yang sudah di ketik, tidak dapat di edit, hanya bisa dihapus</li>
-<li>Tekan / tahan lama untuk menyalin / mengcopy</li>
+<li>Klik tomblo <span style="background-color: rgba(231, 228, 228, 0.712);"><i class="far fa-copy"></i> copy to clipboard</span> untuk menyalin / mengcopy</li>
 				</ol></div>
+				<script>
+					function copy(){
+						document.getElementById("textarea1").select();
+						document.execCommand("copy");
+					}
+				</script>
 	</body>
 	</html>
